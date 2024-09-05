@@ -11,8 +11,12 @@ void Back()
 
 void Move()
 {
+    if(Board의 모든 칸을 방문했다면) return
+
     if(이동할 수 있는 곳이 있다면) 해당 구간으로 이동하기
     else Back()
+
+    Move()
 }
 
 
