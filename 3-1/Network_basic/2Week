@@ -198,7 +198,7 @@ TCP/IP 모델은 공식 표준은 아니지만 업계에서 널리 사용되는 
  == LAN(Local Area Networks) ==
 
 LAN은 네트워크 규모 중에서 가장 작은 단위를  뜻한다. ex) 캠퍼스, 한 건물 내
-LAN 보다 규모가 큰 네트워크를 MAN(Mertopolitan)(대도시) 이라고 부른다.
+LAN 보다 규모가 큰 네트워크를 MAN(Metropolitan)(대도시) 이라고 부른다.
 
 MAN은 여러개의 LAN으로 구성된다. ex) 서울, 부산 등의 대도시
 
